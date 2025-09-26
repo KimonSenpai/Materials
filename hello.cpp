@@ -2,5 +2,5 @@
 
 int main() {
     std::cout << "Hello";
-    int m = 0;
-} 
+    return 0;
+}
